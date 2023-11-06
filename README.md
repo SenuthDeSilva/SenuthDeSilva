@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Senuth De Silva</h1>
 <h3 align="center">A passionate frontend developer From Srilanka</h3>
 <img align="right"alt="Coding" width="400" src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif">
@@ -6,8 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senuthdesilva&label=Profile%20views&color=0e75b6&style=flat" alt="senuthdesilva" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+-Computer Science Student at Informatics Institute of Technology (IIT Campus)
 
-- 🔭 I’m currently working on **LMS project and Iam an student**
+- 🔭 I’m currently working on **LMS projects   **
 
 - 🌱 I’m currently learning **JavaScript,C++,Front end,OOP**
 
