@@ -8,15 +8,15 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 -Computer Science Student at Informatics Institute of Technology (IIT Campus)
 
-- 🔭 I’m currently working on **LMS projects   **
+- 🔭 I’m currently working on **Portfolio   **
 
-- 🌱 I’m currently learning **JavaScript,C++,Front end,OOP**
+- 🌱 I’m currently learning **JavaScript,C++,Front end,OOP,REACT**
 
-- 💬 Ask me about **Python,java,HTML**
+- 💬 Ask me about **Python,java,HTML,REACT**
 
 - 📫 How to reach me **senuthdesilva37@gmail.com**
 
-- ⚡ Fun fact **Iam funny**
+- ⚡ Fun fact **CR7>Messi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
