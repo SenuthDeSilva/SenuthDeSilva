@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img align="right"alt="Coding" width="400" src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif">
+
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
